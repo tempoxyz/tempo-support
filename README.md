@@ -31,3 +31,7 @@ If you are unsure which Tempo repository your issue belongs to, open it here and
 
 ## Security
 If you believe you've found a security vulnerability, please do not report it via GitHub issues. Instead, email security@tempo.xyz and we will acknowledge your report within 5 days and provide a more detailed follow-up within 10 days.
+
+## Troubleshooting
+
+- Fee token: simulate OK but send FAIL? See docs/fee-token-troubleshooting.md
